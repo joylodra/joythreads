@@ -15,6 +15,7 @@ const Home = ({ threads }: Props) => {
     <div>
       <Head>
         <title>joythreads</title>
+
         <meta name="description" content="being fast, free, and fun" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
